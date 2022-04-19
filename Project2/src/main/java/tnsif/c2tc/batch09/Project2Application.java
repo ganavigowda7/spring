@@ -3,12 +3,11 @@ package tnsif.c2tc.batch09;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-
 @SpringBootApplication
-public class ProjectApplication {
+public class Project2Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProjectApplication.class, args);
+		SpringApplication.run(Project2Application.class, args);
 	}
 
 }
